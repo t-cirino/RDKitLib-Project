@@ -1,0 +1,19 @@
+SMILES,name
+CCO,Ethanol
+CC=O,Acetaldehyde
+CC(=O)C,Acetone
+CC(=O)O,Acetic acid
+CN,Methylamine
+CC(=O)N,Acetamide
+COC,Dimethyl ether
+CC(=O)OC,Methyl acetate
+O=S(=O)(NC)C1=CC=CC=C1,Benzenesulfonamide
+NCC(=O)O,Glycine
+CC(=O)OC1=CC=CC=C1C(=O)O,Aspirin
+CNCC(C1=CC(=C(C=C1)O)O)O,Adrenaline (Epinephrine)
+CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Caffeine
+CC(=O)NC1=CC=C(C=C1)O,Paracetamol
+CC(C)CC1=CC=C(C=C1)CC(=O)O,Ibuprofen
+CC(CC1=CC=CC=C1)NC,Methamphetamine
+CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O,Morphine
+C1=CC2=C(C=C1O)C(=CN2)CCN,Serotonin
