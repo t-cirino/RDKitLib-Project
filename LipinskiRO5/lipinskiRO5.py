@@ -68,7 +68,8 @@ for smi in smiles:
         smi_lip_rules.extend(lipinskiRules(smi))
         output_data.extend([smi_lip_rules])
 
-writecsv("outfile.csv", output_data)
+writecsv("LipRO5_outfile.csv", output_data)
+print("Results written to LipRO5_outfile.csv")
 
 
 
