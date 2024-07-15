@@ -1,0 +1,6 @@
+(Cl)
+(Br)
+(F)
+CCC
+C#N
+C=O
