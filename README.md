@@ -5,6 +5,6 @@ This repository contains a collection of Python scripts developed during a Pytho
 
 ### Scripts Overview
 <b>LipinskiRO5</b> - It validates and cleans SMILES strings, and return the Lipinski RO5 properties and violations.<br>
-<b>subStruct_search</b> - It identifies the presence of common functional groups using SMARTS patterns.
+<b>subStruct_search</b> - It identifies the presence of common functional groups using SMARTS patterns.<br>
 <b>combLib</b> - Generates a combinatorial library of chemical structures based on a given molecular backbone and sets of substituents.
 </div>
